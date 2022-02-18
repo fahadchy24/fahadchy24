@@ -5,7 +5,7 @@
 
 <p align="center" > Passionate and Enthusiastic about exploring new technology along with being a quick learner. 😊 </p>
 
-A full stack webdeveloper with a focus on a user friendly experience. I create amazing websites and web apps to make the internet a better place.
+A full stack web developer with a focus on a user friendly experience. I create amazing websites and web apps to make the internet a better place.
 I use code not only to do my day-to-day job, but also to solve everyday problems I come across.
 Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 
