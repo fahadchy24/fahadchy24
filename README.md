@@ -13,7 +13,7 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 
 ### How to reach me: <strong>(Click the badge to view my profiles.)</strong>
 
-<img src="https://img.shields.io/badge/@Fahad24-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white" href="https://www.facebook.com/Fahad24">   <a  href="https://www.instagram.com/the_sixtyfour/"><img src="https://img.shields.io/badge/@the_sixtyfour-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/fahad-ahmed-chowdhury-569a34139/"><img src="https://img.shields.io/badge/Fahad Ahmed Chowdhury-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://www.twitter.com/@fahadchy24"><img src="https://img.shields.io/badge/@fahadchy24-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.facebook.com/Fahad24"><img src="https://img.shields.io/badge/@Fahad24-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white"> </a>   <a  href="https://www.instagram.com/the_sixtyfour/"><img src="https://img.shields.io/badge/@the_sixtyfour-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>   <a href="https://www.linkedin.com/in/fahad-ahmed-chowdhury-569a34139/"><img src="https://img.shields.io/badge/Fahad Ahmed Chowdhury-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://www.twitter.com/@fahadchy24"><img src="https://img.shields.io/badge/@fahadchy24-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 ### Tools I work upon : 🛠
 
