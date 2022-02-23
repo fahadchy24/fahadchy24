@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
 
-<h1 align="center" > <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> It's me, <a href="https://fahadchowdhury.me/" target="_blank"> Fahad Ahmed Chowdhury </a></h1>
+<h1 align="center" > <img src="https://github.com/fahadchy24/fahadchy24/blob/main/gifs/Hi.gif" width="30px"> It's me, <a href="https://fahadchowdhury.me/" target="_blank"> Fahad Ahmed Chowdhury </a></h1>
 
 <p align="center" > Passionate and Enthusiastic about exploring new technology along with being a quick learner. 😊 </p>
 
