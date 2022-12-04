@@ -35,7 +35,9 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 <!--   <a href="https://github.com/fahadchy24/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadchy24&layout=compact&theme=prussian&hide_border=true" /></a> 
 </p> -->
 
-[![fahadchy24's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fahadchy24&theme=xcode)](https://git.io/fahadchy24)
+<!-- [![fahadchy24's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=fahadchy24&theme=xcode)](https://git.io/fahadchy24) -->
+	
+![fahadchy24's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fahadchy24&theme=xcode)
    
 
 
