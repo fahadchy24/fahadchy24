@@ -36,9 +36,6 @@ Goal-oriented individual🎯 along with a high-energy level🤹‍♀️, honed 
 </p> -->
 	
 ![fahadchy24's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=fahadchy24&theme=xcode)
-	
-<a href="https://skyline.github.com/fahadchy24/2021">
-   
 
 
 <hr>
